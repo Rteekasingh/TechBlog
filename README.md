@@ -7,9 +7,8 @@ The challenge this week is to build a CMS-style blog site similar to a Wordpress
 * [User Story](#userStory)
 * [Acceptance Criteria](#acceptanceCriteria)
 * [Installation](#installation)
-* [Links](#links)
 * [License](#lincense)
-* [Questions](#questions)
+
 
 ### User Story
 ```
